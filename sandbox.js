@@ -26,3 +26,4 @@ function main() {
 
 	startRun();
 }
+runBtn.addEventListener("click",startRun)
